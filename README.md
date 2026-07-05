@@ -20,7 +20,7 @@ An intuitive and visually appealing Android application developed as part of the
 
 | Component | Technology |
 | :--- | :--- |
-| **Language** | Java |
+| **Language** | Java,xml |
 | **IDE** | Android Studio |
 | **UI Layout** | XML (ConstraintLayout, ScrollView) |
 | **UI Components** | Material Design Components (Chips, TextFields, Buttons) |
