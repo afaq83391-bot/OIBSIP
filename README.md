@@ -30,8 +30,6 @@ An intuitive and visually appealing Android application developed as part of the
 
 ## 📸 Screenshots
 
-*(Add your screenshot images inside a `screenshots` folder in your repo, then link them below)*
-
 | Home Screen and  conversion result|
 | :---: |
 |<img width="500" height="900" alt="app overview1" src="https://github.com/user-attachments/assets/ce0387ed-dd2a-4773-a120-9dc6d737c778" />|
