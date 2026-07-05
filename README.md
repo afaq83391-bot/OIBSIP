@@ -80,7 +80,3 @@ This project is created for educational purposes as part of the OIBSIP internshi
 **Track:** Android Development | Oasis Infobyte
 ```
 
-### ⚠️ Important things to do before saving:
-1. Replace `YOUR_USERNAME` in the clone link with your actual GitHub username.
-2. Replace `[Your Full Name]` at the very bottom with your actual name.
-3. Make sure you create a folder named `screenshots` inside your project folder and put 2 images named `home.png` and `result.png` in it (or change the names in the README to match your actual image files).
