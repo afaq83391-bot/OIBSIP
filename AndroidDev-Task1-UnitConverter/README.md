@@ -34,7 +34,7 @@ An intuitive and visually appealing Android application developed as part of the
 
 | Home Screen and  conversion result|
 | :---: |
-|<img width="500" height="900" alt="app overview1" src="screenshots/app overview1" />|
+|<img width="500" height="900" alt="app overview1" src="AndroidDev-Task1-UnitConverter/Screenshots/app overview1.png" />|
 <img width="500" height="900" alt="app overview2" src="https://github.com/user-attachments/assets/3881603c-3e8e-4856-9303-9cd8e4b312f1" /> |
 
 
