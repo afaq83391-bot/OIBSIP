@@ -20,7 +20,7 @@ An intuitive and visually appealing Android application developed as part of the
 
 | Component | Technology |
 | :--- | :--- |
-| **Language** | Java |
+| **Language** | Java,xml |
 | **IDE** | Android Studio |
 | **UI Layout** | XML (ConstraintLayout, ScrollView) |
 | **UI Components** | Material Design Components (Chips, TextFields, Buttons) |
@@ -30,11 +30,10 @@ An intuitive and visually appealing Android application developed as part of the
 
 ## 📸 Screenshots
 
-*(Add your screenshot images inside a `screenshots` folder in your repo, then link them below)*
-
-| Home Screen | Conversion Result |
-| :---: | :---: |
-| ![Home Screen](screenshots/app overview1.png) | ![Result Screen](screenshots/app overview2.png) |
+| Home Screen and  conversion result|
+| :---: |
+|<img width="500" height="900" alt="app overview1" src="https://github.com/user-attachments/assets/a278fcad-1bc4-4a47-9362-4c386cbb4ded" />
+<img width="500" height="900" alt="app overview2" src="https://github.com/user-attachments/assets/720581c9-2a51-48c0-a597-62d2d74be902" /> |
 
 
 
@@ -81,7 +80,3 @@ This project is created for educational purposes as part of the OIBSIP internshi
 **Track:** Android Development | Oasis Infobyte
 ```
 
-### ⚠️ Important things to do before saving:
-1. Replace `YOUR_USERNAME` in the clone link with your actual GitHub username.
-2. Replace `[Your Full Name]` at the very bottom with your actual name.
-3. Make sure you create a folder named `screenshots` inside your project folder and put 2 images named `home.png` and `result.png` in it (or change the names in the README to match your actual image files).
