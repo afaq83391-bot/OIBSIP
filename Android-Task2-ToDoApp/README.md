@@ -60,14 +60,13 @@ app/src/main/java/com/example/todoapp/
 
 | Registration Screen |
 | :---: | 
-|(<img width="700px" height="1400px" alt="Registration screen" src="https://github.com/user-attachments/assets/53b5ddda-dedd-453d-a437-adb6f88dc79d" />
-) |
+|<img width="700px" height="1400px" alt="Registration screen" src="https://github.com/user-attachments/assets/53b5ddda-dedd-453d-a437-adb6f88dc79d" />
+ |
 
 | Task Dashboard | Empty State |
 | :---: | :---: |
-| (<img width="700px" height="1400px" alt="Task list" src="https://github.com/user-attachments/assets/30a401e9-0433-4608-b8fc-cd662101733c" />
-) |(<img width="700px" height="1400px" alt="Empty state" src="https://github.com/user-attachments/assets/8202b793-fb32-42fc-8f3c-4589045dbc7a" />
-)|
+|<img width="700px" height="1400px" alt="Task list" src="https://github.com/user-attachments/assets/30a401e9-0433-4608-b8fc-cd662101733c" /> |(<img width="700px" height="1400px" alt="Empty state" src="https://github.com/user-attachments/assets/8202b793-fb32-42fc-8f3c-4589045dbc7a" />
+|
 
 ## 🧑‍💻 Author
 **Afaqahmad**  
