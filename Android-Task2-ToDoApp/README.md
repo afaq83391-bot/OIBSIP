@@ -35,14 +35,14 @@
 ## 📂 Project Structure
 ```text
 app/src/main/java/com/example/todoapp/
-├── adapters/          # RecyclerView adapter for the task list
-├── database/          # SQLite database helper and table schemas
-├── dialogs/           # Custom DialogFragment for adding tasks
-├── models/            # User and Task data models
-├── utils/             # SessionManager and PasswordHasher utilities
-├── LoginActivity.java # Login screen logic
-├── RegisterActivity.java # Registration screen logic
-└── MainActivity.java  # Main task dashboard logic
+├── adapters/               # RecyclerView adapter for the task list
+├── database/               # SQLite database helper and table schemas
+├── dialogs/                # Custom DialogFragment for adding tasks
+├── models/                 # User and Task data models
+├── utils/                  # SessionManager and PasswordHasher utilities
+├── LoginActivity.java      # Login screen logic
+├── RegisterActivity.java   # Registration screen logic
+└── MainActivity.java       # Main task dashboard logic
 ```
 
 ## 🚀 How to Run the Project
@@ -58,16 +58,19 @@ app/src/main/java/com/example/todoapp/
 
 ## 📸 Screenshots
 
-| Login Screen |
+| Registration Screen |
 | :---: | 
-| ![Register](screenshots/register.png) |
+|(<img width="700px" height="1400px" alt="Registration screen" src="https://github.com/user-attachments/assets/53b5ddda-dedd-453d-a437-adb6f88dc79d" />
+) |
 
 | Task Dashboard | Empty State |
 | :---: | :---: |
-| ![Tasks](screenshots/task_list.png) | ![Empty](screenshots/empty_state.png) |
+| (<img width="700px" height="1400px" alt="Task list" src="https://github.com/user-attachments/assets/30a401e9-0433-4608-b8fc-cd662101733c" />
+) |(<img width="700px" height="1400px" alt="Empty state" src="https://github.com/user-attachments/assets/8202b793-fb32-42fc-8f3c-4589045dbc7a" />
+)|
 
 ## 🧑‍💻 Author
-**Your Name**  
-B.Tech Computer Science Student  
+**Afaqahmad**  
+Computer Science Student  
 Oasis Infobyte  Android Development Intern
 ```
