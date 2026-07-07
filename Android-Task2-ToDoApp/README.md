@@ -61,7 +61,6 @@ app/src/main/java/com/example/todoapp/
 | Registration Screen |
 | :---: | 
 |<img width="700px" height="1400px" alt="Registration screen" src="https://github.com/user-attachments/assets/53b5ddda-dedd-453d-a437-adb6f88dc79d" />
- |
 
 | Task Dashboard | Empty State |
 | :---: | :---: |
