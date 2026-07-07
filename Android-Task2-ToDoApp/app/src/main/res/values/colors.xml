@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4F46E5</color>
+    <color name="primary_dark">#3730A3</color>
+    <color name="primary_light">#818CF8</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="bg">#F1F5F9</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#0F172A</color>
+    <color name="on_surface_variant">#64748B</color>
+    <color name="outline">#E2E8F0</color>
+    <color name="outline_variant">#F1F5F9</color>
+    <color name="success">#10B981</color>
+    <color name="warning">#F59E0B</color>
+    <color name="error">#EF4444</color>
+    <color name="status_bar">#3730A3</color>
+    <color name="divider">#E2E8F0</color>
+    <color name="completed_bg">#F0FDF4</color>
+    <color name="stat_all_num">#4F46E5</color>
+    <color name="stat_all_label">#6366F1</color>
+    <color name="stat_completed_num">#059669</color>
+    <color name="stat_completed_label">#10B981</color>
+    <color name="stat_pending_num">#D97706</color>
+    <color name="stat_pending_label">#F59E0B</color>
+    <color name="stat_notes_num">#7C3AED</color>
+    <color name="stat_notes_label">#8B5CF6</color>
+</resources>
