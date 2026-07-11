@@ -27,8 +27,8 @@ This project strictly follows the feature checklist provided for the task:
 
 ### 1. Welcome Screen
 The landing page where the user initiates the quiz.
-![Welcome Screen](<img width="1209" height="2553" alt="Welcome Screen" src="https://github.com/user-attachments/assets/9511909a-fcbe-451a-8b80-a1e45bb57009" />
-)
+![Welcome Screen] <img width="1209" height="2553" alt="Welcome Screen" src="https://github.com/user-attachments/assets/9511909a-fcbe-451a-8b80-a1e45bb57009" />
+
 
 ### 2. Question Screen (Active Feedback)
 Demonstrating the immediate green/red highlighting when a user selects an incorrect answer.
