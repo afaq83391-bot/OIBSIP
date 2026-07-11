@@ -37,7 +37,7 @@ Demonstrating the immediate green/red highlighting when a user selects an incorr
 
 ### 3. Results Screen
 The final scorecard displaying statistics and an option to restart.<br/><br/>
-<img width="700px" height="1400px" alt="Result Screen" src="https://github.com/user-attachments/assets/9b9de359-9555-471f-95d6-44a0fce023bc" />
+<img width="500px" height="800px" alt="Result Screen" src="https://github.com/user-attachments/assets/9b9de359-9555-471f-95d6-44a0fce023bc" />
 
 
 ---
