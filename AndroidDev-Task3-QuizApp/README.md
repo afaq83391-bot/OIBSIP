@@ -111,6 +111,6 @@ app/src/main/
 ---
 **Developed as part of the OIBSIP Android Development Internship.**
 ```
-
+Made by Afaqahmad
 ---
 
