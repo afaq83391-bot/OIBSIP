@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="enter_value">Enter value</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="convert">Convert</string>
+    <string name="result_label">Result</string>
+    <string name="result_placeholder">—</string>
+    <string name="error_empty">Please enter a value</string>
+    <string name="error_invalid">Please enter a valid number</string>
+    <string name="length">Length</string>
+    <string name="weight">Weight</string>
+    <string name="temperature">Temperature</string>
+    <string name="volume">Volume</string>
+    <string name="area">Area</string>
+    <string name="speed">Speed</string>
+    <string name="select_category">Select Category</string>
+    <string name="formula_label">Formula</string>
+    <string name="copied">Copied to clipboard</string>
+</resources>
