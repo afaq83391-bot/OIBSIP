@@ -28,13 +28,13 @@ This project strictly follows the feature checklist provided for the task:
 ### 1. Welcome Screen
 The landing page where the user initiates the quiz.<br/><br/>
 <img width="500px" height="1400px" alt="Welcome Screen" src="https://github.com/user-attachments/assets/9511909a-fcbe-451a-8b80-a1e45bb57009" />
-
+<br/><br/>
 
 ### 2. Question Screen (Active Feedback).
 Demonstrating the immediate green/red highlighting when a user selects an incorrect answer.<br/><br/>
 <img width="500px" height="1400px" alt="Question Screen" src="https://github.com/user-attachments/assets/7f4cb84c-ca2b-4ae0-b49a-02f7358b8679" />
 
-
+<br/><br/>
 ### 3. Results Screen
 The final scorecard displaying statistics and an option to restart.<br/><br/>
 <img width="500px" height="1400px" alt="Result Screen" src="https://github.com/user-attachments/assets/9b9de359-9555-471f-95d6-44a0fce023bc" />
