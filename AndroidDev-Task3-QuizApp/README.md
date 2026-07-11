@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # 🧠 QuizMaster - Android Quiz App
 
 ## 📋 Project Information
@@ -25,7 +22,6 @@ This project strictly follows the feature checklist provided for the task:
 - [x] **Results Screen:** Displays the final score out of the maximum, the exact number of correct answers, incorrect answers, and a "Restart Quiz" button.
 - [x] **Shuffled Order:** Questions are randomized using `Collections.shuffle()` every time the quiz starts or restarts, ensuring a unique experience.
 
----
 
 ## 📸 Screenshots
 
