@@ -26,7 +26,7 @@ This project strictly follows the feature checklist provided for the task:
 ## 📸 Screenshots
 
 ### 1. Welcome Screen
-The landing page where the user initiates the quiz.
+The landing page where the user initiates the quiz.<br/><br/>
 <img width="700px" height="1400px" alt="Welcome Screen" src="https://github.com/user-attachments/assets/9511909a-fcbe-451a-8b80-a1e45bb57009" />
 
 
